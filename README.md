@@ -41,16 +41,14 @@ Intelligent Networking.
 ``` text
 AdaptiveStream-RL/
 │
-├── env/
+├── environment/
 │   └── streaming_env.py
 │
 ├── agents/
-│   ├── rule_based.py
 │   └── q_learning_agent.py
 │
 ├── train_dqn.py
 ├── evaluate.py
-├── plot_results.py
 │
 ├── requirements.txt
 └── README.md
