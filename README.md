@@ -169,7 +169,6 @@ you will see:
 - Episode reward
 - Q-value trends
 
-
 ------------------------------------------------------------------------
 
 ## Technologies
@@ -199,6 +198,19 @@ Planned future improvements include:
 
 ------------------------------------------------------------------------
 
+## Future Work
+Extension to multi-agent reinforcement learning
+Real-world deployment in network systems
+Improved reward engineering
+Comparison with advanced RL algorithms (SAC, PPO, DDPG)
+
+------------------------------------------------------------------------
+## Author
+Fatemeh KHosravi
+Background: M.Sc. Mathematical Statistics
+Experience: 6 years Software Development (Python, Django, FastAPI)
+Current focus: Reinforcement Learning & AI-driven systems
+------------------------------------------------------------------------
 ## License
 
 This project is licensed under the MIT License.
